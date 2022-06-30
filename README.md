@@ -1,6 +1,6 @@
 # DataBase : 데이터의 저장소
 
-## DBMS (DataBase Management System) : 데이터베이를 관리하고 운영하는 소프트웨어
+## DBMS (DataBase Management System) : 데이터베이를 관리하고 운영하는 시스템 (소프트웨어)
 
 ### DBMS 종류
 - MySQL
